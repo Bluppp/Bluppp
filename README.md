@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- Student
-- 🌱 I’m currently learning how to hack and learning linux
-- How to contact me: imBlupp@outlook.com
+- Student for Netherlands
+- Currently I'm learning hacking and also a bit Linux 🌱 
+- How to contact me: imblupp@outlook.com
 
 
 
